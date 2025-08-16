@@ -23,3 +23,7 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
+
+## Tutorial Link
+
+SAP CAPM Full Stack UI5 Application with CRUD Operations at https://community.sap.com/t5/technology-blog-posts-by-members/sap-capm-full-stack-ui5-application-with-crud-operations/ba-p/13536813
